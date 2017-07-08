@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.widget.Toast;
 
 /**
- * Created by admin on 7/5/2017.
+  Created by admin on 7/5/2017.
  */
 
 public class MyBroadCast2 extends BroadcastReceiver {
